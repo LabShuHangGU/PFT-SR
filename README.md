@@ -17,7 +17,7 @@ By [Wei Long](https://scholar.google.com/citations?user=CsVTBJoAAAAJ), [Xingyu Z
 
 
 ## Contents
-1. [Enviroment](#environment)
+1. [Environment](#environment)
 1. [Inference](#inference)
 1. [Training](#training)
 1. [Testing](#testing)
